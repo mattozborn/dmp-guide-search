@@ -60,11 +60,7 @@ The repository contains the following files:
 5. **Start Searching**:
 
    - Enter your search term in the input field.
-   - Click the search button to query DuckDuckGo and see the results.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+   - Click the search button to query DuckDuckGo and see the results
 
 ## Acknowledgements
 
